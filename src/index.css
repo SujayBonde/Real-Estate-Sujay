@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300&display=swap');
+@import "tailwindcss";
+
+
+/* Now your other CSS rules can follow */
+* {
+  font-family: Outfit, Poppins, Zain, sans-serif;
+}
+
+/* Any other styles */
